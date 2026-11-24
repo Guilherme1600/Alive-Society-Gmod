@@ -1,0 +1,30 @@
+{
+    "title": "Alive Society",
+    "type": "npc",
+    "tags": [
+        "roleplay",
+        "realism",
+        "AI",
+        "npcs",
+        "generative AI",
+        "artificial",
+        "relations",
+        "gmod ai",
+        "ai gmod",
+        "society",
+        "alive",
+        "sociologia geral",
+        "psi social"
+        
+
+    ],
+    "ignore": [
+        "*.psd",
+        "*.blend",
+        "*.vcproj",
+        "*.svn*",
+        "*.git*",
+        "*.bak",
+        "*.tmp"
+    ]
+}
